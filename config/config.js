@@ -1,4 +1,6 @@
-const { env } = process;
+const {
+    env
+} = process;
 const dot = require("dotenv")
 dot.config()
 
